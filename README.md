@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[--name--](--link--)**
+- 🔭 I’m currently working on **[Productivity application](--link--)**
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
