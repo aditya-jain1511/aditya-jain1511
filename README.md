@@ -66,9 +66,3 @@
 <a href = "https://www.instagram.com/aditya_jain1511/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?aditya-jain1511">
-</a>
-<a href="https://github.com/aditya-jain1511?tab=followers"><img src="https://img.shields.io/github/followers/aditya-jain1511?label=Followers&style=social" alt="GitHub Badge"></a>
