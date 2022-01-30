@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Productivity application](--link--)**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **MongoDB + NodeJS integration**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](--link--)**
 
